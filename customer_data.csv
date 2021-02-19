@@ -1,0 +1,12 @@
+﻿ID,Lastname,Firstname,Age,Gender,City,Pref1,Pref2,Pref3,Car_model,Survey
+1001,Serrano,Gigi,20,F,Toronto,Year,Price,Make,Ford,1
+1002,Aguiar,John,23,M,Missisauga,Price,Make,Model,Chevrolet,1
+1003,Dahiya,AJ,19,M,London,,,,,0
+1004,Shariff,Ummer,21,M,Sarnia,Make,Price,,,1
+1005,Doe,John,25,M,Hamilton,,,,BMW,0
+1006,Green,Rachel,26,F,Toronto,Price,Make,Model,,1
+1007,Gellar,Monica,27,F,Markham,Model,Make,,,1
+1008,Gellar,Ross,40,M,Brampton,,,,Audi,0
+1009,Buffet,Phoebe,45,F,Windsor,Price,,,,1
+1010,Bing,Chandler,30,M,Barrie,Model,Price,,Acura,1
+1011,Tribiani,Joey,28,M,Kitchener,Year,Model,Make,Kia,1
